@@ -157,7 +157,5 @@ if __name__ =="__main__":
             cpu()
         elif "joke" in query:
             jokes()
-
-
 #END
 
